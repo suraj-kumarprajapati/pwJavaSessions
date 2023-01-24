@@ -5,4 +5,9 @@ class launch
 		// some code
 	}
 
+	void m2()
+	{
+		// some other code by dev 1
+	}
+
 }
