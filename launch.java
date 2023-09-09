@@ -10,4 +10,7 @@ class launch
 		// some other code by dev 1
 	}
 
+	void m3() {
+		
+	}
 }
